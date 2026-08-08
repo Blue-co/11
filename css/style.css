@@ -51,7 +51,7 @@ header .inner {
 
 .contents {
    width: 1200px;
-   height: 200%;
+   height: 200px;
    background: #ff884d;
    margin: auto;
    display: flex;
